@@ -31,9 +31,9 @@ int sum(a first, b second) {
 
 int main()
 {
-	a first;
-	b second;
-	cout << sum(first, second) << endl;
+	a Xd;
+	b Xz;
+	cout << sum(Xd, Xz) << endl;
 			return 0;
 
 }
