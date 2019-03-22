@@ -23,7 +23,7 @@
     <ClCompile Include="pch.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Шаблоны класов.cpp">
+    <ClCompile Include="Шаблоны классов.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,7 +15,7 @@ public:
 
 	}
 	Type95 getElement(int i) {
-		return arr[i]; 
+		return arr[i];
 	}
 };
 
@@ -31,4 +31,3 @@ int main()
 	return 0;
 
 }
-

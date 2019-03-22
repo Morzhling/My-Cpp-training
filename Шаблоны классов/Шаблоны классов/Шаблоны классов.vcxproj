@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{21512781-3227-4F62-9A86-C59D6E21E082}</ProjectGuid>
+    <ProjectGuid>{6BBA1456-9021-45B7-80BF-906A57BEAA9D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Шаблоныкласов</RootNamespace>
+    <RootNamespace>Шаблоныклассов</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -160,7 +160,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Шаблоны класов.cpp" />
+    <ClCompile Include="Шаблоны классов.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
